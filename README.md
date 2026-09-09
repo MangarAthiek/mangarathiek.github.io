@@ -36,6 +36,5 @@ COVID-19 Data Analysis & Forecasting | Environmental Data Analysis | 01/2025 –
 • Built short-term forecasting model using Python (Statsmodels) <br>
 • Cleaned and analyzed WHO datasets to identify infection trends <br>
 • Delivered insights through data visualization and statistical modeling <br>
-
-• Cleaned and analyzed WHO datasets to identify infection trends
+• Cleaned and analyzed WHO datasets to identify infection trend
 • Delivered insights through data visualization and statistical modeling
