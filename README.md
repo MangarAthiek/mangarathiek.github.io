@@ -18,12 +18,10 @@ questions (e.g., profitability, late payments, warranty usage)<br>
 • Enabled tracking of customer financing, credit risk, and payment history, improving
 operational visibility <br>
 <br>
-<br>
 KNN Model for Diabetes Prediction | Introduction to Data Science | 09/2025 – 12/2025 <br>
 • Built a K-Nearest Neighbors classification model using CDC dataset <br>
 • Performed data cleaning, feature engineering, and visualization using tidyverse, ggplot2 <br>
 • Achieved 73% prediction accuracy through cross-validation and model tuning <br>
-<br>
 <br>
 Weather & Emissions Data Analysis | Environmental Data Analysis | 01/2025 – 04/2025 <br>
 • Developed linear regression model to analyze relationship between emissions and temperature
@@ -32,9 +30,3 @@ trends <br>
 • Produced visual insights to support climate trend interpretation <br>
 <br>
 <br>
-COVID-19 Data Analysis & Forecasting | Environmental Data Analysis | 01/2025 – 04/2025 <br>
-• Built short-term forecasting model using Python (Statsmodels) <br>
-• Cleaned and analyzed WHO datasets to identify infection trends <br>
-• Delivered insights through data visualization and statistical modeling <br>
-• Cleaned and analyzed WHO datasets to identify infection trend
-• Delivered insights through data visualization and statistical modeling
