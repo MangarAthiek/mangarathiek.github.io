@@ -2,7 +2,7 @@
 Technical skills: Python, R, C++, SQL
 
 ### Education
-• BSc Computer Science and Mathematics       University of Lethbridge (Apr, 2028)
+• BSc Computer Science and Mathematics       University of Lethbridge (Apr, 2028) <br>
 • BSc Biotechnology Specialist               University of Toronto (June, 2015)
 
 ### Projects
